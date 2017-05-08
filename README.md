@@ -1,5 +1,8 @@
 # Dump tweets from search
 
+I do like the #May1Reboot initiative.
+More information on this [article](https://fabiofranchino.com/blog/dump-tweets-from-search/)
+
 ### Installation
 
 ```
